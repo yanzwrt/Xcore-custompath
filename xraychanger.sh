@@ -5,6 +5,7 @@
 # Auther  : NevermoreSSH
 # (C) Copyright 2022
 # =========================================
+R='\e[1;31m'
 P='\e[0;35m'
 B='\033[0;36m'
 G='\033[0;32m'
@@ -74,7 +75,7 @@ clear
 menu
 ;;
 *)
-echo " \e[0;35m Please enter an correct number \e[0;35m "
+echo " \e[1;31m Please enter an correct number \e[1;31m "
 sleep 2
 xraychanger
 ;;
