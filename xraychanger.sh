@@ -11,6 +11,11 @@ B='\033[0;36m'
 G='\033[0;32m'
 NC='\e[0m'
 N='\e[0m'
+red='\e[1;31m'
+green='\e[0;32m'
+purple='\e[0;35m'
+orange='\e[0;33m'
+NC='\e[0m'
 clear
 echo -e "\e[36m╒════════════════════════════════════════════╕\033[0m"
 echo -e " \E[0;41;36m               XRAY-CORE CHANGER            \E[0m"
@@ -66,7 +71,8 @@ mv /usr/local/bin/xray /usr/local/bin/xray.bakk && wget -q -O /usr/local/bin/xra
 ;;
 99)
 xray version
-echo -e "\033[0;32mBack to menu in 5 sec\033[0;32m"
+echo -e "[ ${green}INFO${NC} ] Back to menu in 5 sec . . . "
+#echo -e "\033[0;32mBack to menu in 5 sec\033[0;32m"
 sleep 5
 xraychanger
 ;;
@@ -75,8 +81,10 @@ clear
 menu
 ;;
 *)
-echo -e "\e[1;31m Please enter an correct number\e[1;31m"
-sleep 2
+clear
+echo -e "[ ${red}INFO${NC} ] Please enter an correct number . . . "
+#echo -e "\e[1;31m Please enter an correct number\e[1;31m"
+sleep 3
 xraychanger
 ;;
 esac
