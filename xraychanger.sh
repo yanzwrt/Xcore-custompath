@@ -38,7 +38,7 @@ echo -e "
 
  Notes: 
  - Restart / Reboot server after change Xray-core.
- - If using old XTLS, use old Xray-core v1.7.5 or below. "
+ - If using old XTLS, downgrade old Xray-core v1.7.5 or below. "
 echo ""
 echo -e "\033[1;37mPress [ Ctrl+C ] • To-Exit-Script\033[0m"
 echo ""
