@@ -3,7 +3,7 @@
 wget -q -O /usr/bin/xraychanger "https://raw.githubusercontent.com/NevermoreSSH/Xcore-custompath/main/xraychanger.sh" && chmod +x /usr/bin/xraychanger && xraychanger
   ```
 
-## Description :
+## Description : Type "xraychanger" for xraycore menu
 
  Xray version
 - v1.5.4
