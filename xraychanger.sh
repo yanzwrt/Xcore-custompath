@@ -66,6 +66,7 @@ mv /usr/local/bin/xray /usr/local/bin/xray.bakk && wget -q -O /usr/local/bin/xra
 99)
 xray version
 echo "Back to menu in 5 sec"
+sleep 5
 xraychanger
 ;;
 0)
