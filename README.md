@@ -12,6 +12,6 @@ wget -q -O /usr/bin/xraychanger "https://raw.githubusercontent.com/NevermoreSSH/
 - v1.7.5
 - v1.8.4
 
-Xray version
+Xray MOD version
 - v1.6.5
 - v1.7.2-1
