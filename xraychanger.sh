@@ -72,7 +72,7 @@ menu
 ;;
 *)
 echo "Please enter an correct number"
-clear
+sleep 2
 xraychanger
 ;;
 esac
