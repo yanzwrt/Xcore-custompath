@@ -7,7 +7,7 @@ Then Just type command below
 xraychanger
   ```
 
-## Description :
+## Description : For VPS only!!!
 
  Xray version
 - v1.5.4
