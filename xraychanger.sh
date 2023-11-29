@@ -65,7 +65,7 @@ mv /usr/local/bin/xray /usr/local/bin/xray.bakk && wget -q -O /usr/local/bin/xra
 ;;
 99)
 xray version
-echo "Back to menu in 5 sec"
+echo " \033[0;32m Back to menu in 5 sec \033[0;32m "
 sleep 5
 xraychanger
 ;;
@@ -74,7 +74,7 @@ clear
 menu
 ;;
 *)
-echo "Please enter an correct number"
+echo " \e[0;35m Please enter an correct number \e[0;35m "
 sleep 2
 xraychanger
 ;;
