@@ -64,7 +64,6 @@ clear
 mv /usr/local/bin/xray /usr/local/bin/xray.bakk && wget -q -O /usr/local/bin/xray "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.7.2-1/Xray-linux-64-v1.7.2-1" && chmod 755 /usr/local/bin/xray && xray version
 ;;
 99)
-clear
 xray version
 ;;
 0)
