@@ -2,8 +2,12 @@
  ```html
 wget -q -O /usr/bin/xraychanger "https://raw.githubusercontent.com/NevermoreSSH/Xcore-custompath/main/xraychanger.sh" && chmod +x /usr/bin/xraychanger && xraychanger
   ```
+Xray-core Changer menu
+ ```html
+xraychanger
+  ```
 
-## Description : Type "xraychanger" for xraycore menu
+## Description :
 
  Xray version
 - v1.5.4
