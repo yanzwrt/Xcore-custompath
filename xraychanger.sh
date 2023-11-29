@@ -70,6 +70,7 @@ clear
 mv /usr/local/bin/xray /usr/local/bin/xray.bakk && wget -q -O /usr/local/bin/xray "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.7.2-1/Xray-linux-64-v1.7.2-1" && chmod 755 /usr/local/bin/xray && xray version
 ;;
 99)
+clear
 xray version
 echo -e "[ ${green}INFO${NC} ] Back to menu in 5 sec . . . "
 #echo -e "\033[0;32mBack to menu in 5 sec\033[0;32m"
