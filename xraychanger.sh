@@ -34,7 +34,11 @@ echo -e "
  [\033[1;36m• 88 \033[0m]  Xray-core MOD v1.7.2-1
 
  [\033[1;36m• 99 \033[0m]  Check Xray-core version
- [\033[1;36m• 00 \033[0m]  Back To Main Menu"
+ [\033[1;36m• 00 \033[0m]  Back To Main Menu
+
+ Notes: 
+ - Restart / Reboot server after change Xray-core.
+ - If using old XTLS, use old Xray-core v1.7.5 or below. "
 echo ""
 echo -e "\033[1;37mPress [ Ctrl+C ] • To-Exit-Script\033[0m"
 echo ""
