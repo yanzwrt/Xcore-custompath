@@ -18,7 +18,7 @@ orange='\e[0;33m'
 NC='\e[0m'
 clear
 echo -e "\e[36m╒════════════════════════════════════════════╕\033[0m"
-echo -e " \E[0;41;36m               XRAY-CORE CHANGER            \E[0m"
+echo -e " \E[0;47;30m               XRAY-CORE CHANGER            \E[0m"
 echo -e "\e[36m╘════════════════════════════════════════════╛\033[0m
 \033[1;37mXray-core Changer By NevermoreSSH\033[0m
 \033[1;37mTelegram : https://t.me/todfix667 \033[0m"
