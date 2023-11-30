@@ -24,17 +24,17 @@ echo -e "\e[36m╘════════════════════�
 \033[1;37mTelegram : https://t.me/todfix667 \033[0m"
 echo -e 
 echo -e "
- [\033[1;36m• 01 \033[0m]  Xray-core v1.5.4
- [\033[1;36m• 02 \033[0m]  Xray-core v1.6.1
- [\033[1;36m• 03 \033[0m]  Xray-core v1.7.2
- [\033[1;36m• 04 \033[0m]  Xray-core v1.7.5
- [\033[1;36m• 05 \033[0m]  Xray-core v1.8.4
+ [\033[1;36m• 1\033[0m]  Xray-core v1.5.4
+ [\033[1;36m• 2\033[0m]  Xray-core v1.6.1
+ [\033[1;36m• 3\033[0m]  Xray-core v1.7.2
+ [\033[1;36m• 4\033[0m]  Xray-core v1.7.5
+ [\033[1;36m• 5\033[0m]  Xray-core v1.8.4
  
- [\033[1;36m• 77 \033[0m]  Xray-core MOD v1.6.5   
- [\033[1;36m• 88 \033[0m]  Xray-core MOD v1.7.2-1
+ [\033[1;36m•77\033[0m]  Xray-core MOD v1.6.5   
+ [\033[1;36m•88\033[0m]  Xray-core MOD v1.7.2-1
 
- [\033[1;36m• 99 \033[0m]  Check Xray-core version
- [\033[1;36m• 00 \033[0m]  Back To Main Menu
+ [\033[1;36m•99\033[0m]  Check Xray-core version
+ [\033[1;36m• 0\033[0m]  Back To Main Menu
 
  Notes: 
  - Please restart / reboot server after change Xray-core.
