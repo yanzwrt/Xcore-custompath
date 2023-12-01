@@ -80,7 +80,7 @@ xray version
 echo -e "[ ${green}INFO${NC} ] Back to menu in 5 sec . . . "
 #echo -e "\033[0;32mBack to menu in 5 sec\033[0;32m"
 sleep 5
-xraychanger
+xraychanger2
 ;;
 0)
 clear
@@ -91,6 +91,6 @@ clear
 echo -e "[ ${red}INFO${NC} ] Please enter an correct number . . . "
 #echo -e "\e[1;31m Please enter an correct number\e[1;31m"
 sleep 3
-xraychanger
+xraychanger2
 ;;
 esac
