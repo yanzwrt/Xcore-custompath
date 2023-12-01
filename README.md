@@ -1,11 +1,16 @@
 # Install Xray-core Changer
+[ for path 
+ ```html
+wget -q -O /usr/bin/xraychanger "https://raw.githubusercontent.com/NevermoreSSH/Xcore-custompath/main/xraychanger.sh" && chmod +x /usr/bin/xraychanger && xraychanger
+  ```
+or [ for path /usr/sbin/xray ]
  ```html
 wget -q -O /usr/bin/xraychanger "https://raw.githubusercontent.com/NevermoreSSH/Xcore-custompath/main/xraychanger.sh" && chmod +x /usr/bin/xraychanger && xraychanger
   ```
 Then Just type command below
- ```html
-xraychanger
-  ```
+
+`xraychanger` or `xraychanger2`
+
 
 ## Description : For VPS only!!!
 
