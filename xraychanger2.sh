@@ -39,7 +39,7 @@ echo -e "
  [\033[1;36m• 3\033[0m]  Xray-core v1.7.2
  [\033[1;36m• 4\033[0m]  Xray-core v1.7.5
  [\033[1;36m• 5\033[0m]  Xray-core v1.8.4
- [\033[1;36m• 6\033[0m]  Xray-core v${latest_version} $green << Latest
+ [\033[1;36m• 6\033[0m]  Xray-core v${latest_version} ${green} << Latest ${NC}
  
  [\033[1;36m•77\033[0m]  Xray-core MOD v1.6.5   
  [\033[1;36m•88\033[0m]  Xray-core MOD v1.7.2-1
