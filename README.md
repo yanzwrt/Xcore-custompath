@@ -20,6 +20,7 @@ Then Just type command below
 - v1.7.2
 - v1.7.5
 - v1.8.4
+- latest
 
 Xray MOD version
 - v1.6.5
