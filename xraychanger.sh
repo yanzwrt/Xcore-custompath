@@ -49,7 +49,7 @@ echo -e "
 
  Notes: 
 ❇️ Please restart / reboot server after change Xray-core.
-❇️ If you using old XTLS, downgrade Xray-core v1.7.5 or below.
+❇️ If you using old XTLS, downgrade Xray-core v1.7.5 or lower.
 ❇️ Xray-core MOD support custom path / multipath. Only use it if your scripts support."
 echo ""
 echo -e "\033[1;37mPress [ Ctrl+C ] • To-Exit-Script\033[0m"
