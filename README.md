@@ -9,7 +9,7 @@ wget -q -O /usr/bin/xraychanger2 "https://raw.githubusercontent.com/NevermoreSSH
   ```
 Then Just type command below
 
-`xraychanger` or `xraychanger2`
+`xraychanger` or `xraychanger2` for menu
 
 
 ## Description : For VPS only!!!
