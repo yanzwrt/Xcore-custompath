@@ -14,7 +14,7 @@ Then Just type command below
 
 ## Description : For VPS only!!!
 
- Xray version
+ Xray Official version
 - v1.5.4
 - v1.6.1
 - v1.7.2
