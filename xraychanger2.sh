@@ -43,6 +43,7 @@ echo -e "
  
  [\033[1;36m•77\033[0m]  Xray-core MOD v1.6.5   
  [\033[1;36m•88\033[0m]  Xray-core MOD v1.7.2-1
+ [\033[1;36m•89\033[0m]  Xray-core MOD v25.3.31
 
  [\033[1;36m•99\033[0m]  Check Xray-core version
  [\033[1;36m• 0\033[0m]  Back To Main Menu
