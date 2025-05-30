@@ -109,7 +109,7 @@ xraychanger
 ;;
 89)
 clear
-mv $xrays_path $xrays_path.bakk && curl -L https://github.com/NevermoreSSH/Xcore-custompath/releases/download/v25.3.31/Xray-linux-arm64-v8a-v25.3.31.zip > Xray-linux-arm64-v8a-v25.3.31.zip && unzip *.zip && mv xray /usr/local/bin && chmod +x $xrays_path && rm *.zip *.dat LICENSE README.md && xray version
+mv $xrays_path $xrays_path.bakk && curl -L https://github.com/NevermoreSSH/Xcore-custompath/releases/download/v25.3.31/Xray-linux-64-v25.3.31.zip > Xray.zip && unzip *.zip && mv xray /usr/local/bin && chmod +x $xrays_path && rm *.zip *.dat LICENSE README.md && xray version
 #mv $xrays_path $xrays_path.bakk && curl -L https://github.com/XTLS/Xray-core/releases/download/v${latest_version}/xray-linux-64.zip > xray-linux-64.zip && unzip *.zip && mv xray /usr/local/bin && chmod +x $xrays_path && rm *.zip *.dat LICENSE README.md && xray version
 read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
 xraychanger
