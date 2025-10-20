@@ -26,3 +26,9 @@ Xray MOD version
 - v1.6.5
 - v1.7.2-1
 - v25.3.31
+
+  # Jika Ada Perubahan Skrip ini Update VPS Manual 
+[ for path /usr/local/bin/xray ]
+ ```html
+wget -q -O /usr/bin/xraychanger "https://raw.githubusercontent.com/yanzwrt/Xcore-custompath/main/xraychanger.sh" && chmod +x /usr/bin/xraychanger
+  ```
