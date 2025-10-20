@@ -53,7 +53,7 @@ echo -e "
 ❇️ Jika Anda menggunakan XTLS lama, turunkan versi Xray-core v1.7.5 atau yang lebih rendah.
 ❇️ MOD Xray-core mendukung jalur kustom/multipath. Gunakan hanya jika skrip Anda mendukungnya."
 echo ""
-echo -e "\033[1;37mPress [ Ctrl+C ] • untuk-keluar-dari-Script\033[0m"
+echo -e "\033[1;37mTekan [ Ctrl+C ] • untuk-keluar-dari-Script\033[0m"
 echo ""
 read -p "pilih dari opsi [ 1 - 99 ] :  " xcore
 echo -e ""
@@ -61,57 +61,57 @@ case $xcore in
 1)
 clear
 mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/yanzwrt/Xcore-custompath/releases/download/Xray-linux-64-v1.5.4/Xray-linux-64-v1.5.4" && chmod 755 $xrays_path && xray version
-read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
+read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Kembali ke menu . . .") "
 xraychanger2
 ;;
 2)
 clear
 mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/yanzwrt/Xcore-custompath/releases/download/Xray-linux-64-v1.6.1/Xray-linux-64-v1.6.1" && chmod 755 $xrays_path && xray version
-read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
+read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Kembali ke menu . . .") "
 xraychanger2
 ;;
 3)
 clear
 mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/yanzwrt/Xcore-custompath/releases/download/Xray-linux-64-v1.7.2/Xray-linux-64-v1.7.2" && chmod 755 /usr/local/bin/xray && xray version
-read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
+read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Kembali ke menu . . .") "
 xraychanger2
 ;;
 4)
 clear
 mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/yanzwrt/Xcore-custompath/releases/download/Xray-linux-64-v1.7.5/Xray-linux-64-v1.7.5" && chmod 755 $xrays_path && xray version
-read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
+read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Kembali ke menu . . .") "
 xraychanger2
 ;;
 5)
 clear
 mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/yanzwrt/Xcore-custompath/releases/download/Xray-linux-64-v1.8.4/Xray-linux-64-v1.8.4" && chmod 755 $xrays_path && xray version
-read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
+read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Kembali ke menu . . .") "
 xraychanger2
 ;;
 6)
 clear
 mv $xrays_path $xrays_path.bakk && curl -L https://github.com/XTLS/Xray-core/releases/download/v$latest_version/Xray-linux-64.zip > Xray-linux-64.zip && unzip *.zip && mv xray /usr/sbin && chmod +x $xrays_path && rm *.zip *.dat LICENSE README.md && xray version
 #mv $xrays_path $xrays_path.bakk && curl -L https://github.com/XTLS/Xray-core/releases/download/v${latest_version}/xray-linux-64.zip > xray-linux-64.zip && unzip *.zip && mv xray /usr/local/bin && chmod +x $xrays_path && rm *.zip *.dat LICENSE README.md && xray version
-read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
+read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Kembali ke menu . . .") "
 xraychanger2
 ;;
 77)
 clear
 mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/yanzwrt/Xcore-custompath/releases/download/Xray-linux-64-v1.6.5.1/Xray-linux-64-v1.6.5.1" && chmod 755 $xrays_path && xray version
-read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
+read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Kembali ke menu . . .") "
 xraychanger2
 ;;
 88)
 clear
 mv $xrays_path $xrays_path.bakk && wget -q -O $xrays_path "https://github.com/yanzwrt/Xcore-custompath/releases/download/Xray-linux-64-v1.7.2-1/Xray-linux-64-v1.7.2-1" && chmod 755 $xrays_path && xray version
-read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
+read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Kembali ke menu . . .") "
 xraychanger2
 ;;
 89)
 clear
 mv $xrays_path $xrays_path.bakk && curl -L https://github.com/yanzwrt/Xcore-custompath/releases/download/v25.3.31/Xray-linux-64-v25.3.31.zip > Xray.zip && unzip *.zip && mv xray /usr/local/bin && chmod +x $xrays_path && rm *.zip *.dat LICENSE README.md && xray version
 #mv $xrays_path $xrays_path.bakk && curl -L https://github.com/XTLS/Xray-core/releases/download/v${latest_version}/xray-linux-64.zip > xray-linux-64.zip && unzip *.zip && mv xray /usr/local/bin && chmod +x $xrays_path && rm *.zip *.dat LICENSE README.md && xray version
-read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Back to menu . . .") "
+read -p "$( echo -e "Press ${orange}[ ${NC}${green}Enter${NC} ${CYAN}]${NC} Kembali ke menu . . .") "
 xraychanger
 ;;
 99)
